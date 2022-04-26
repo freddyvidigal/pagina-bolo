@@ -1,0 +1,64 @@
+
+.titulo {
+    background-color: rgb(159, 214, 186);
+    align-items: center;
+    letter-spacing: 6px;
+    align-content: center;
+    text-align: center;
+    text-shadow: 4px 5px 4px rgb(174, 219, 68);
+    font-size: 45px;
+    font-weight: bold;
+    font-family:Arial, Helvetica, sans-serif;
+    color: rgb(133, 89, 236);
+}
+.menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    align-self: center;
+        align-content: center;
+    font-size: 30px;
+    padding: 5px;
+    background-color: rgb(185, 200, 230);
+    border: 1px solid rgb(195, 230, 196);
+    color: rgb(133, 89, 236);
+    
+    
+}
+.apres {
+    background-color: rgb(185, 200, 230);
+    text-align: center;
+    font-size: 25px;
+    padding: 10px;
+    color: rgb(133, 89, 236);
+}
+
+.Geral1{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    text-align: center;
+    font-size: 25px;
+    background-color: rgb(185, 200, 230);
+    
+    
+    
+}
+         
+
+.Geral1 .img {
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+    align-items: center;
+    
+        
+}
+.tex1 {
+    padding: 10px;
+    color: rgb(133, 89, 236);
+}
+.contatos {
+    text-align: center;
+    font-size: 45px;
+    background-color: rgb(185, 200, 230);
+}
